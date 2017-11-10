@@ -1,6 +1,6 @@
 # Hangman-Game
 
-#### HW#3 for The Coding Bootcamp at UT Austin 
+#### HW #3 for The Coding Bootcamp at UT Austin 
 
 A “Ready Player One" based hangman game.
 
