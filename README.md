@@ -1,4 +1,4 @@
-# Hangman
+# Hangman-Game
 
 #### HW#3 for The Coding Bootcamp at UT Austin 
 
